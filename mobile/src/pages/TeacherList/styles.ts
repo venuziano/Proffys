@@ -1,12 +1,10 @@
 import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
-  keyboard: {
-    flex: 1,
-  },
-  
   container: {
+    flex: 1,
     backgroundColor: '#f0f0f7',
+    justifyContent: 'space-evenly',
   },
 
   teacherList: {
@@ -15,7 +13,7 @@ const styles = StyleSheet.create({
 
   searchForm: {
     marginBottom: 34,
-    marginTop: 80,
+    marginTop: -18,
   },
 
   label: {
