@@ -17,6 +17,8 @@ export default class ClassesController {
     const week_day = filters.week_day as string;
     const time = filters.time as string;
 
+    console.log(subject, week_day, time)
+
     if (!filters.week_day || !filters.subject || !filters.time) {
       return response.status(400).json({
         error: 'Missing filters to search classes'
@@ -38,6 +40,7 @@ export default class ClassesController {
       .join('users', 'classes.user_id', '=', 'users.id')
       .select(['classes.*', 'users.*'])
 
+    console.log({class: classes})
     return response.json(classes);
   }
 

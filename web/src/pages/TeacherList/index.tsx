@@ -25,7 +25,7 @@ export default function TeacherList() {
         time
       }
     });
-
+    console.log({ data: response.data });
     setTeachers(response.data);
   }
 

@@ -13,7 +13,7 @@ export interface Teacher {
   id: number;
   avatar: string;
   bio: string;
-  cost: number;
+  cost: string;
   name: string;
   subject: string;
   whatsapp: string;
@@ -79,8 +79,8 @@ const TeacherItem: React.FC<TeacherItemPropos> = ({ teacher, favorited }) => {
 
       <View style={styles.footer}>
         <Text style={styles.price}>
-          Preço/hora {'   '}
-          <Text style={styles.priceValue}>R$ 20,00</Text>
+          Preço/hora: {'   '}
+          <Text style={styles.priceValue}>R$ {teacher.cost}</Text>
         </Text>
 
         <View style={styles.buttonsContainer}>
