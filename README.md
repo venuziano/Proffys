@@ -20,21 +20,6 @@
 <p>Projeto desenvolvido durante a <strong>NLW - Next Level Week</strong> oferecida pela <a href="https://blog.rocketseat.com.br/primeira-next-level-week/" rel="nofollow">Rocketseat</a>.
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.</p>
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
-
 <h2><a fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png"><img class="emoji" alt="gear" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png"></g-emoji> Funcionalidades</h2>
 
 <ul>
