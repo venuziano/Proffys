@@ -37,15 +37,15 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 </ul>
 
 <p>Os alunos podem procurar os professores por filtro de nome da aula e horário "De" e "Até".</p>
-  
-<li> 
-  <p> Os usuários tem acesso ao aplicativo móvel, onde podem:</p>
+
+<ul>
+<li> Os usuários tem acesso ao aplicativo móvel, onde podem:
   <ul>
     <li> Procurar professores para as aulas</li>
     <li> Favoritar e "desfavoritar" professores</li>
   </ul>
 </li>
-
+</ul>
 
 
 
