@@ -1,6 +1,6 @@
 <img alt="Banner" src="./assets/banner.png">
 
-<h1 align="center">Proffys</h1>
+<h1 align="center">Proffy</h1>
 <p align="center">Aplicativo <i>web</i> e <i>mobile</I> para conectar professores e estudantes.</p>
 
 <h4 align="center"> 
@@ -36,15 +36,16 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
   </li>
 </ul>
 
-<p> Os alunos podem procurar os professores por filtro de nome da aula e horário "De" e "Até".</p>
-  <li>
-    <p> Os usuários tem acesso ao aplicativo móvel, onde podem:</p>
-    <ul>
-      <li> Procurar professores para as aulas</li>
-      <li> Favoritar e "desfavoritar" professores</li>
-    </ul>
-  </li>
-</ul>
+<p>Os alunos podem procurar os professores por filtro de nome da aula e horário "De" e "Até".</p>
+  
+<li> 
+  <p> Os usuários tem acesso ao aplicativo móvel, onde podem:</p>
+  <ul>
+    <li> Procurar professores para as aulas</li>
+    <li> Favoritar e "desfavoritar" professores</li>
+  </ul>
+</li>
+
 
 
 
@@ -127,4 +128,4 @@ $ yarn start
 
 <h2><a fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"><img class="emoji" alt="memo" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"></g-emoji> Licença</h2>
 
-<p>Este projeto esta sobe a licença <a href="/tgmarinho/README-ecoleta/blob/master/LICENSE">MIT</a>.</p>
+<p>Este projeto esta sobe a licença <a href="https://github.com/venuziano/Proffys/blob/master/LICENSE">MIT</a>.</p>
