@@ -10,6 +10,7 @@
 <p align="center">
   <img alt="used languages" src="https://img.shields.io/badge/languages-2-green">  
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/venuziano/Proffys">
+  <img alt="used license" src="https://img.shields.io/github/license/venuziano/Proffys">
 </p>
 
 <img class="emoji" alt="computer" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> Sobre o projeto
