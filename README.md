@@ -4,11 +4,11 @@
 <p align="center">Aplicativo <i>web</i> e <i>mobile</I> para conectar professores e estudantes.</p>
 
 <h4 align="center"> 
-	:heavy_check_mark:  Proffy 🚀 Finalizado  :heavy_check_mark:
+  :heavy_check_mark:  Proffy 🚀 Finalizado  :heavy_check_mark:
 </h4>
 
 <p align="center">
-  <img alt="used languages" src="https://img.shields.io/badge/languages-2-green">  
+  <img alt="used languages" src="https://img.shields.io/badge/languages-4-green">  
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/venuziano/Proffys">
   <img alt="used license" src="https://img.shields.io/github/license/venuziano/Proffys">
 </p>
@@ -16,7 +16,7 @@
 <img class="emoji" alt="computer" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> Sobre o projeto
 =================
 
-<p> Proffys é um aplicativo que busca conectar professores de diversas áreas e estudantes dos mais variados tipos em uma só plataforma. Os estudantes podem procurar a aula do interesse e após, realizar o contato com o professor. </p>
+<p> Proffys é um aplicativo que busca conectar professores de diversas áreas e estudantes dos mais variados campos em uma só plataforma. Os estudantes podem procurar a aula do interesse e após, realizar o contato com o professor. </p>
 
 <p>Projeto desenvolvido durante a <strong>NLW - Next Level Week</strong> oferecida pela <a href="https://blog.rocketseat.com.br/primeira-next-level-week/" rel="nofollow">Rocketseat</a>.
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.</p>
@@ -25,14 +25,14 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 <ul>
   <li>
-  <p> Os professores podem se cadastrar informando</p>
+  <p> Os professores podem se cadastrar informando:</p>
     <ul class="contains-task-list">
-      <li> Seu nome completo</li>
-      <li> Avatar para o perfil</li>
-      <li> Whatsapp</li>
-      <li> Quais aulas lesionam </li>
-      <li> Custo da aula por hora </li>
-      <li> Horários disponíveis </li>
+      <li> Seu nome completo; </li>
+      <li> Avatar para o perfil; </li>
+      <li> Whatsapp;</li>
+      <li> Quais aulas lesionam; </li>
+      <li> Custo da aula por hora; </li>
+      <li> Horários disponíveis. </li>
     </ul>
   </li>
 </ul>
@@ -44,8 +44,8 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 <ul>
 <li> Os usuários tem acesso ao aplicativo móvel, onde podem:
   <ul>
-    <li> Procurar professores para as aulas</li>
-    <li> Favoritar e "desfavoritar" professores</li>
+    <li> Procurar professores para as aulas; </li>
+    <li> Favoritar e "desfavoritar" professores. </li>
   </ul>
 </li>
 </ul>
@@ -119,9 +119,39 @@ $ yarn start
 <span class="pl-c"><span class="pl-c">#</span> A aplicação será aberta na porta:3000 - acesse http://localhost:3000</span>
 </pre>
 
+<h2><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Tecnologias </h2>
+
+<h4><a href="https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript"></a><strong>Server</strong> (<a href="https://nodejs.org/en/" rel="nofollow">NodeJS</a> + <a href="https://www.typescriptlang.org/" rel="nofollow">TypeScript</a>)</h4>
+
+<ul>
+  <li><strong><a href="https://expressjs.com/" rel="nofollow">Express</a></strong></li>
+  <li><strong><a href="https://expressjs.com/en/resources/middleware/cors.html" rel="nofollow">CORS</a></strong></li>
+  <li><strong><a href="http://knexjs.org/" rel="nofollow">KnexJS</a></strong></li>
+  <li><strong><a href="https://github.com/mapbox/node-sqlite3">SQLite</a></strong></li>
+  <li><strong><a href="https://github.com/TypeStrong/ts-node">ts-node</a></strong></li>
+</ul>
+
+<h4><strong>Website</strong> (<a href="https://reactjs.org/" rel="nofollow">React</a> + <a href="https://www.typescriptlang.org/" rel="nofollow">TypeScript</a>)</h4>
+
+<ul>
+  <li><strong><a href="https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom">React Router Dom</a></strong></li>
+  <li><strong><a href="https://github.com/axios/axios">Axios</a></strong></li>
+</ul>
+
+<h4><a href="https://github.com/tgmarinho/Ecoleta#mobile-react-native--typescript"></a><strong>Mobile</strong> (<a href="http://www.reactnative.com/" rel="nofollow">React Native</a> + <a href="https://www.typescriptlang.org/" rel="nofollow">TypeScript</a>)</h4>
+
+<ul>
+  <li><strong><a href="https://expo.io/" rel="nofollow">Expo</a></strong></li>
+  <li><strong><a href="https://github.com/expo/google-fonts">Expo Google Fonts</a></strong></li>
+  <li><strong><a href="https://reactnavigation.org/" rel="nofollow">React Navigation</a></strong></li>
+  <li><strong><a href="https://github.com/axios/axios">Axios</a></strong></li>
+  <li><strong><a href="https://github.com/react-native-community/async-storage" rel="nofollow">AsyncStorage</a></strong></li>
+  <li><strong><a href="https://github.com/software-mansion/react-native-reanimated" rel="nofollow">React Native Reanimated</a></strong></li>
+</ul>
+
 <h2><a fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png"><img class="emoji" alt="superhero" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png"></g-emoji> Autor</h2>
 
-<img src="https://avatars3.githubusercontent.com/u/15386984?s=460&u=a927908b5d7306d6d5eb234da4094b4a9c7dbdb4&v=4" width="100px;" alt="" style="max-width:100%;">
+<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/15386984?s=460&u=a927908b5d7306d6d5eb234da4094b4a9c7dbdb4&v=4" width="100px;" alt="" style="max-width:100%;">
 
 <sub><b>Rafael Rodrigues</b></sub>
 <img class="emoji" alt="rocket" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">
