@@ -18,9 +18,6 @@
 
 <p> Proffys é um aplicativo que busca conectar professores de diversas áreas e estudantes dos mais variados campos em uma só plataforma. Os estudantes podem procurar a aula do interesse e após, realizar o contato com o professor. </p>
 
-<p>Projeto desenvolvido durante a <strong>NLW - Next Level Week</strong> oferecida pela <a href="https://blog.rocketseat.com.br/primeira-next-level-week/" rel="nofollow">Rocketseat</a>.
-O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.</p>
-
 <h2><a fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png"><img class="emoji" alt="gear" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png"></g-emoji> Funcionalidades</h2>
 
 <ul>
