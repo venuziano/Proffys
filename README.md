@@ -49,7 +49,7 @@
 
 
 
-<img class="emoji" alt="art" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png"> App demonstration
+<img class="emoji" alt="art" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png"> App Demonstration
 =================
 Mobile:
 <p align="center">
